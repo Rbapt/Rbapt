@@ -1,20 +1,18 @@
-Rbapt : French Student of Ecole Polytechnique Universitaire : Paris-Saclay
-
+Rbapt : French Engineering Student of Ecole Polytechnique Universitaire : Paris-Saclay
 
 Member of [CIA](http://www.swerc.eu/2025/) club.
 
 Currently working on :
 For the CIA :
   Students' desk website : React website using TypeScript
-  Preparing to [SWERC](http://www.swerc.eu/2025/) championship, qualified for the next round in Lyon
-  Will join 2025 Prologin championship
+  Took part in [SWERC](http://www.swerc.eu/2025/) championship, attending for next year
 
 Personnal Projects :
   Gecko and Chromium web extansion
   Python graphic game
   
 Studying (in addition of Maths, Physics...) : 
-  Algorythms, C++
+  Algorythms (Codeforces), C++, Linux Systems
 
 CONTACT : rbapt2400@gmail.com
 
